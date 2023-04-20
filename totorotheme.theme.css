@@ -19,7 +19,7 @@
    * SoftX variables
    */
   --background-image: url("https://64.media.tumblr.com/ef54d660ef19b41539113af32810aade/tumblr_ptr93kR27V1xkr0iao1_540.gif"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-  --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
+  --background-blur: 5px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 111, 3, 252; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
